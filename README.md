@@ -32,8 +32,6 @@
  
 
 Output 2
-![Screenshot 2021-09-19 _deli_2](https://user-images.githubusercontent.com/85843030/133938511-8a8c227e-bf0f-476a-a95d-16b212c7bb81.png)
-
 
 ![Screenshot 2021-09-19_deli2](https://user-images.githubusercontent.com/85843030/133938531-2275518c-c615-4b0f-aba2-882b01b96659.png)
 

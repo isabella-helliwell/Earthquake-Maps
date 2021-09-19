@@ -1,6 +1,6 @@
 # 1.0 Earthquake_Maps
 ## 1.1 Project Overview
-    Earthquake map has been created using data from:
+    Earthquake map has been created using data from:https://www.usgs.gov/natural-hazards/earthquake-hazards/earthquakes
     The aim of this project is to add earthequake data in relation to the tectonic plate's location on earth.
     
     

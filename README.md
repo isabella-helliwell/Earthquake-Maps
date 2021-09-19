@@ -27,3 +27,23 @@
   
  # 4.0 Results
  
+ Output 1
+![Screenshot 2021-09-19 _deli_2](https://user-images.githubusercontent.com/85843030/133938477-c5afd18b-c7f8-4ebc-8196-70526452fb7e.png)
+ 
+
+Output 2
+![Screenshot 2021-09-19 _deli_2](https://user-images.githubusercontent.com/85843030/133938511-8a8c227e-bf0f-476a-a95d-16b212c7bb81.png)
+
+
+![Screenshot 2021-09-19_deli2](https://user-images.githubusercontent.com/85843030/133938531-2275518c-c615-4b0f-aba2-882b01b96659.png)
+
+
+
+Output 3 & 4
+![Screenshot 2021-09-19_deliv_3](https://user-images.githubusercontent.com/85843030/133938542-fb48f2b2-fa01-4212-ade0-d45c8bb58dc8.png)
+
+![Screenshot 2021-09-19_deliv3](https://user-images.githubusercontent.com/85843030/133938554-63d5059a-52f0-4ec9-b5b3-344d51ae7ffe.png)
+
+
+
+
